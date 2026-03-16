@@ -1,5 +1,5 @@
 # metabolic-transmutation-engine
-A biosemiotic-epistemic conceptual framework that models systemic transformation as planetary biological metabolism. It transmutes destructive forces, signals and dynamics into regenerative pathways for planetary coevolutionary flourishing.
+A biosemiotic-epistemic conceptual framework that models systemic transformation as planetary biological metabolism. It transmutes destructive forces, signals and dynamics into regenerative pathways for planetary coevolutionary flourishing. It's part of the [epistemic-immune-system](https://github.com/ronniross/epistemic-immune-system) |
 
 Repository Collection:
 | No. |  |
