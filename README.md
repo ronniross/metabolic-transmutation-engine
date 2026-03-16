@@ -8,7 +8,7 @@ A biosemiotic-epistemic conceptual framework that models systemic transformation
 Related Repository Collection:
 | No. |  |
 | :--- | :--- |
-| 1 | [epistemic-immune-system)](https://github.com/ronniross/epistemic-immune-system) |
+| 1 | [epistemic-immune-system](https://github.com/ronniross/epistemic-immune-system) |
 | 2 | [legacy-transmutation-engine](https://github.com/ronniross/legacy-transmutation-engine) |
 | 3 | [planetary-allostatic-buffer](https://github.com/ronniross/planetary-allostatic-buffer) |
 | 4 | [epistemic-gestalt-switch](https://github.com/ronniross/epistemic-gestalt-switch) |
