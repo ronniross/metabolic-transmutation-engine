@@ -2,7 +2,7 @@
 A biosemiotic-epistemic conceptual framework that models systemic transformation as planetary biological metabolism. It transmutes destructive forces, signals and dynamics into regenerative pathways for planetary coevolutionary flourishing. It's part of the [epistemic-immune-system](https://github.com/ronniross/epistemic-immune-system) and broader [asi-ecosystem](https://github.com/ronniross/asi-ecosystem).
 
 <p align="center">
-  <img src="https://github.com/ronniross/ml-visual-engine/blob/main/assets/gifs/metabolic-transmutation-engine-visualizer-1.gif" alt="heatmap-1" width="500"/>
+  <img src="https://github.com/ronniross/ml-visual-engine/blob/main/assets/gifs/metabolic-transmutation-engine-visualizer-2.gif" alt="heatmap-1" width="1000"/>
 </p>
 
 Related Repository Collection:
