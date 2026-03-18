@@ -16,6 +16,7 @@ Related Repository Collection:
 | 6 | [cognitive-engine](https://github.com/ronniross/cognitive-engine) |
 | 7 | [coevolutionary-episteme](https://github.com/ronniross/coevolutionary-episteme) |
 | 8 | [cognitive-valve](https://github.com/ronniross/cognitive-valve) |
+| 9 | [biosemiotic-refractor](https://github.com/ronniross/biosemiotic-refractor) |
 
 ---
 Ronni Ross  
